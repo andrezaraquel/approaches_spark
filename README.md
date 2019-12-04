@@ -1,6 +1,7 @@
 # approaches_spark
 
 This repository contains **Spark-based** versions of **BlockSplit** and **BlockSlicer**. 
+These are blocking techniques to reduce the entity matching search space.
 
 Hadoop MapReduce versions of BlockSplit anf BlockSlicer were first proposed/used in the following papers:
 
