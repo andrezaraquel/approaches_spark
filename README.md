@@ -13,9 +13,9 @@ Hadoop MapReduce versions of BlockSplit anf BlockSlicer were first proposed/used
 
 Repository Contributors:
 
-[Andreza Queiroz](https://github.com/andrezaraquel)
-Demétrio Mestre
-[Veruska Santos](https://github.com/veruskasantos)
+- [Andreza Queiroz](https://github.com/andrezaraquel)
+- Demétrio Mestre
+- [Veruska Santos](https://github.com/veruskasantos)
 
 
 
